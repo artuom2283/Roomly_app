@@ -15,7 +15,7 @@ A web-based platform for booking meeting rooms and workspaces in coworking envir
 - **SCSS** – Styling with modular and reusable stylesheets  
 - **React Router** – Navigation and page management  
 - **Redux (or Context API)** – State management for user sessions and bookings  
-- **fetch** – Handling API requests to backend services  
+- **Fetch** – Handling API requests to backend services  
 - **JWT** – Authentication and session management  
 - **Bulma** – CSS framework for styling  
 
