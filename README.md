@@ -22,8 +22,7 @@ A web-based platform for booking meeting rooms and workspaces in coworking envir
 ## 📥 Installation & Local Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/booking-platform.git
-   cd booking-platform
+   git clone [https://github.com/yourusername/booking-platform.git](https://github.com/artuom2283/Roomly_app.git)
    ```
 2. Start Docker in the root directory:
    ```sh
