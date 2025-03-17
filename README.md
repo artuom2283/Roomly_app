@@ -52,5 +52,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## 📧 Contact
-For any inquiries, reach out at [fr.puzenko.artem@gmail.com](fr.puzenko.artem@gmail.com).
+For any inquiries, reach out at [fr.puzenko.artem@gmail.com].
 
