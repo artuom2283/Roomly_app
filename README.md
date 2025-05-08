@@ -1,6 +1,6 @@
 # 🏢 Online Booking Platform for Coworking Spaces
 
-A web-based platform for booking meeting rooms and workspaces in coworking environments. Users can view available rooms, select a time slot, and make reservations through an interactive calendar.
+A web-based platform for booking meeting rooms and workspaces in coworking environments. Users can view available rooms, select a time slot, and make a reservation through convenient slots.
 
 ## 🚀 Features
 ✅ Interactive booking system with real-time availability checks  
